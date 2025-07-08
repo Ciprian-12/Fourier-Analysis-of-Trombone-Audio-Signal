@@ -25,24 +25,24 @@ This MATLAB project performs a spectral analysis of a real audio signal (`trombo
 
 ---
 
-### Amplitude Spectrum
+## Amplitude Spectrum
 <p align="center">
   <img src="docs/spectrum.png" width="600" alt="Amplitude Spectrum">
 </p>
 
-### Spectrogram
+## Spectrogram
 <p align="center">
   <img src="docs/spectrogram.png" width="600" alt="Spectrogram">
 </p>
 
-### MSE Plot
+## MSE Plot
 <p align="center">
   <img src="docs/mse_graph.png" width="600" alt="Mean Squared Error Plot">
 </p>
 
 ---
 
-##▶️ How to Run
+## ▶️ How to Run
 
 - Open MATLAB
 - Make sure trombon.wav is in the same folder as the script
