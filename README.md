@@ -14,6 +14,34 @@ This MATLAB project performs a spectral analysis of a real audio signal (`trombo
 
 ---
 
+## 📈 Features
+
+- Loads audio file and converts stereo to mono if needed
+- Applies FFT to extract frequency components
+- Displays amplitude spectrum (up to 100 kHz)
+- Generates spectrogram to show frequency variation over time
+- Reconstructs the signal using 1–50 harmonics
+- Plots MSE to evaluate reconstruction accuracy
+
+---
+
+### Amplitude Spectrum
+<p align="center">
+  <img src="docs/spectrum.png" width="600" alt="Amplitude Spectrum">
+</p>
+
+### Spectrogram
+<p align="center">
+  <img src="docs/spectrogram.png" width="600" alt="Spectrogram">
+</p>
+
+### MSE Plot
+<p align="center">
+  <img src="docs/mse_graph.png" width="600" alt="Mean Squared Error Plot">
+</p>
+
+---
+
 ## 📁 Project Structure
 
 ```text
