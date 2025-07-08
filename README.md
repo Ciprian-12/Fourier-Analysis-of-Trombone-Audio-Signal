@@ -42,6 +42,14 @@ This MATLAB project performs a spectral analysis of a real audio signal (`trombo
 
 ---
 
+##▶️ How to Run
+
+- Open MATLAB
+- Make sure trombon.wav is in the same folder as the script
+- Run the script: analiza_fourier
+
+---
+
 ## 📁 Project Structure
 
 ```text
